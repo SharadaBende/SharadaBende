@@ -1,5 +1,15 @@
 # Hey there! I’m Sharada,
- <br>A Frontend Developer who enjoys building interactive and responsive web experiences. Alongside frontend work, I’m currently learning full-stack development to understand and build complete web applications.<br>
+ <br>
+ Frontend Developer
+
+I am a Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces using HTML, CSS, JavaScript, React.js, and Tailwind CSS. I focus on creating modern, scalable, and performance-driven frontend applications with clean, maintainable code.
+
+I enjoy transforming Figma and UI/UX designs into pixel-perfect, responsive websites, ensuring cross-browser compatibility and smooth user experiences across devices. I follow best practices in component-based development to deliver reliable and efficient UI solutions.
+
+Currently, I am learning full-stack development to strengthen my knowledge of backend technologies, APIs, and databases, aiming to build end-to-end web applications. I actively participate in hackathons and hands-on projects, continuously improving my problem-solving, collaboration, and real-world development skills.
+
+I am a continuous learner, always exploring new tools and industry trends to grow as a developer and deliver better digital experiences.
+ <br>
  
 <br>
 <hr>
