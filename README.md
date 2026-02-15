@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey there! 👋  <br>I’m Sharada, a Frontend Developer who enjoys building interactive and responsive web experiences. Alongside frontend work, I’m currently learning full-stack development to understand and build complete web applications.<br>
+# Hey there! I’m Sharada,
+ <br>A Frontend Developer who enjoys building interactive and responsive web experiences. Alongside frontend work, I’m currently learning full-stack development to understand and build complete web applications.<br>
 
 
 
