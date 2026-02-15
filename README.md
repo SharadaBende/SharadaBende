@@ -1,8 +1,9 @@
 # Hey there! I’m Sharada,
  <br>A Frontend Developer who enjoys building interactive and responsive web experiences. Alongside frontend work, I’m currently learning full-stack development to understand and build complete web applications.<br>
-
+ 
+<br>
 <hr>
-
+<br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -20,11 +21,17 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<br>
+<hr>
+<br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sharada-bende-1b76172a1) 
 
 
-
+<br>
+<hr>
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SharadaBende&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
