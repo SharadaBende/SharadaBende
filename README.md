@@ -1,6 +1,6 @@
 # Hey there! I’m Sharada,
  <br>
- Frontend Developer
+<b>Frontend Developer</b>
 
 I am a Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces using HTML, CSS, JavaScript, React.js, and Tailwind CSS. I focus on creating modern, scalable, and performance-driven frontend applications with clean, maintainable code.
 
@@ -33,13 +33,11 @@ I am a continuous learner, always exploring new tools and industry trends to gro
 
 <br>
 <hr>
-<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sharada-bende-1b76172a1) 
 
 
-<br>
 <hr>
 <br>
 
