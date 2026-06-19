@@ -1,61 +1,142 @@
-# Hey there! I’m Sharada 👋  
+<div align="center">
 
-**Frontend Developer | React.js & Tailwind CSS**
+# 👋 Hi, I'm Sharada Bende
 
-I’m a Frontend Developer passionate about building **clean, responsive, and user-friendly web interfaces** using **HTML, CSS, JavaScript, React.js, and Tailwind CSS**.  
-I specialize in converting **Figma and UI/UX designs into pixel-perfect, responsive websites** with smooth cross-browser experiences.  
-I focus on writing **clean, maintainable code** and following best practices in **component-based development**.  
-Currently, I’m **learning full-stack development** to build scalable, end-to-end web applications.  
-I’m a **continuous learner and hackathon enthusiast**, improving my skills through hands-on projects.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Generative+AI+Engineer;Building+Intelligent+Systems;Machine+Learning+Enthusiast;Future+AI+Product+Builder;Never+Stop+Learning." alt="Typing SVG" />
 
----
+### 🚀 Aspiring Generative AI Engineer
 
-## 🛠️ Tech Stack
+*Passionate about building intelligent systems that solve real-world problems through Artificial Intelligence and Machine Learning.*
 
-| Category | Technologies |
-|--------|--------------|
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
-| **Styling** | ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+<img src="https://komarev.com/ghpvc/?username=SharadaBende&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 💫 About Me
 
-- **E-Commerce UI** – Modern and responsive shopping interface built with React & Tailwind CSS  
-- **AI Pharmacy System (Frontend)** – Healthcare-focused UI with clean design and accessibility  
-- **Responsive Landing Pages** – Mobile-first, performance-optimized web pages  
+I'm **Sharada**, an aspiring **Generative AI Engineer** passionate about building intelligent systems that create real-world impact.
 
----
+My goal isn't just to learn AI—it's to build AI products that millions of people can use.
 
-## 🎯 Current Focus
+I'm especially interested in developing AI solutions for:
 
-- Enhancing React.js performance and best practices  
-- Learning backend development (Node.js, APIs, Databases)  
-- Building full-stack projects with real-world use cases  
+* 🏥 Healthcare
+* 🎓 Education
+* 💼 Business Automation
 
----
+I believe that every great engineer starts as a curious learner.
 
-## 🌐 Connect With Me
+That's why I'm constantly exploring new technologies, building projects, and improving my problem-solving skills every single day.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharada-bende-1b76172a1)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharadabende2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SharadaBende)
+> **"Never stop learning."** — My guiding principle.
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Mission
 
-![](https://github-readme-stats.vercel.app/api?username=SharadaBende&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=SharadaBende&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SharadaBende&theme=dark&hide_border=false&layout=compact)
+> Build intelligent AI products that solve real-world problems and positively impact millions of lives.
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=SharadaBende&icon=0&color=0)
+# 🌍 Vision
 
+To become a world-class **Generative AI Engineer** by building innovative AI products that are useful, scalable, and accessible to everyone.
+
+---
+
+# 🧠 What I'm Learning
+
+```text
+✓ Python
+
+✓ Machine Learning
+
+✓ NumPy
+
+✓ Pandas
+
+✓ AWS Cloud
+
+✓ FastAPI
+
+✓ AI Engineering
+
+✓ Generative AI
+
+✓ Large Language Models (LLMs)
+
+✓ Software Engineering
+```
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+---
+
+### 🤖 AI & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+---
+
+### ⚙️ Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+---
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
+
+### ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
+
+---
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 📚 Current Focus
+
+* 🤖 Building AI & Machine Learning Projects
+* 🧠 Learning Generative AI & LLMs
+* ☁️ Exploring AWS Cloud
+* ⚡ Building AI APIs with FastAPI
+* 🚀 Becoming a World-Class AI Engineer
+
+---
