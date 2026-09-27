@@ -118,8 +118,7 @@ Full-stack app that generates blog posts, social captions, and ad copy using Gro
 
 ## 📈 Currently Learning
 
-`AI/ML` &nbsp;•&nbsp; `Data Structures & Algorithms` &nbsp;•&nbsp; `Agentic AI Frameworks (LangGraph, CrewAI)` &nbsp;•&nbsp; `Vector Databases & RAG`
-
+`AI/ML` &nbsp;•&nbsp; `Data Structures & Algorithms` &nbsp;•&nbsp; 
 <br>
 
 <div align="center">
