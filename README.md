@@ -36,7 +36,7 @@ AI medicine assistant that answers medicine questions grounded in verified drug 
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ [Drishti — दृष्टि](your-drishti-link-here)
+### 🎙️ [Drishti — दृष्टि](https://github.com/SharadaBende/Python-AI-Tutor)
 Voice-first coding education platform for visually impaired students. Teaches 9 programming languages entirely through speech, with an AI code agent and hands-free voice code dictation.
 
 `FastAPI` `React` `Groq LLM` `Web Speech API`
@@ -54,10 +54,10 @@ A multi-agent system where AI agents collaborate to build, test, deploy, and mon
 </td>
 <td width="50%" valign="top">
 
-### 🐍 [Python AI Tutor](https://github.com/SharadaBende/Python-AI-Tutor)
-An AI-powered tutor built with Python. *(description pending)*
+### ✍️ [AI Content Generator](https://github.com/SharadaBende/ai-content-generator)
+Full-stack app that generates blog posts, social captions, and ad copy using Groq's Llama 3.3 model, with generation history and an extensible content-type system.
 
-`Python` `FastAPI` `React`
+`FastAPI` `SQLite` `Groq LLM` `JavaScript`
 
 </td>
 </tr>
@@ -92,6 +92,7 @@ An AI-powered tutor built with Python. *(description pending)*
 <td>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </td>
@@ -108,6 +109,7 @@ An AI-powered tutor built with Python. *(description pending)*
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -116,7 +118,7 @@ An AI-powered tutor built with Python. *(description pending)*
 
 ## 📈 Currently Learning
 
-`Data Structures & Algorithms` &nbsp;•&nbsp; `Agentic AI Frameworks (LangGraph, CrewAI)` &nbsp;•&nbsp; `Vector Databases & RAG`
+`AI/ML` &nbsp;•&nbsp; `Data Structures & Algorithms` &nbsp;•&nbsp; `Agentic AI Frameworks (LangGraph, CrewAI)` &nbsp;•&nbsp; `Vector Databases & RAG`
 
 <br>
 
